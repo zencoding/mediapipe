@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'MediaPipeFrameworks' do
+  pod 'TensorFlowLiteSwift'
+end
